@@ -1,0 +1,149 @@
+[
+    {
+        "id": 0,
+        "date": "2024-09-18",
+        "time": "22:29:35",
+        "data": {
+            "TEMP": 25.5,
+            "HUM": 49.97,
+            "CO2": 104,
+            "CO": 145.06,
+            "Light": 4.8,
+            "UV": 5.066
+        },
+        "location": {
+            "latitude": 21.0186,
+            "longitude": 105.7984,
+            "height": 100
+        },
+        "warning": ""
+    },
+    {
+        "id": 2,
+        "date": "2024-10-16",
+        "time": "21:30:13",
+        "data": {
+            "TEMP": 25.67,
+            "HUM": 49.67,
+            "CO2": 105,
+            "CO": 146.83,
+            "Light": 53.43,
+            "UV": 4.87
+        },
+        "location": {
+            "latitude": 21.0196,
+            "longitude": 105.7984,
+            "height": 100
+        },
+        "warning": "test"
+    },
+    {
+        "id": 3,
+        "date": "2024-10-16",
+        "time": "21:31:00",
+        "data": {
+            "TEMP": 24.2,
+            "HUM": 50.73,
+            "CO2": 104.97,
+            "CO": 145.87,
+            "Light": 52.13,
+            "UV": 4.93
+        },
+        "location": {
+            "latitude": 21.0206,
+            "longitude": 105.7984,
+            "height": 100
+        },
+        "warning": "test2"
+    },
+    {
+        "id": 4,
+        "date": "2024-10-16",
+        "time": "21:31:30",
+        "data": {
+            "TEMP": 25,
+            "HUM": 51.2,
+            "CO2": 104.57,
+            "CO": 137,
+            "Light": 43.43,
+            "UV": 5.63
+        },
+        "location": {
+            "latitude": 21.0216,
+            "longitude": 105.7984,
+            "height": 100
+        },
+        "warning": ""
+    },
+    {
+        "id": 5,
+        "date": "2024-10-19",
+        "time": "11:46:44",
+        "data": {
+            "TEMP": 24.6,
+            "HUM": 50.35,
+            "CO2": 105.4,
+            "CO": 142.95,
+            "Light": 62.7,
+            "UV": 5.5
+        },
+        "location": {
+            "latitute": 0,
+            "longitute": 0
+        }
+    },
+    {
+        "id": 6,
+        "date": "2024-10-19",
+        "time": "11:47:21",
+        "data": {
+            "TEMP": 25.55,
+            "HUM": 48.85,
+            "CO2": 105.15,
+            "CO": 146.45,
+            "Light": 50.9,
+            "UV": 6.05
+        },
+        "location": {
+            "latitute": 0,
+            "longitute": 0
+        }
+    },
+    {
+        "id": 7,
+        "date": "2024-10-21",
+        "time": "19:51:15",
+        "data": {
+            "TEMP": 24.8,
+            "HUM": 50.15,
+            "CO2": 105.2,
+            "CO": 142.55,
+            "Light": 47.65,
+            "UV": 5.2
+        },
+        "location": {
+            "latitude": "21",
+            "longitude": "105",
+            "height": 100
+        }
+    },
+    {
+        "id": 8,
+        "date": "2024-10-21",
+        "time": "20:41:25",
+        "data": {
+            "TEMP": 24.75,
+            "HUM": 50.45,
+            "CO2": 103.85,
+            "CO": 141.5,
+            "Light": 45.5,
+            "UV": 4.6
+        },
+        "location": {
+            "latitude": "21.0186",
+            "longitude": "105.7994",
+            "height": 100
+        },
+        "warning": "Moderate UV. Seek shade during midday hours, wear protective clothing, a wide-brimmed hat, and UV-blocking sunglasses"
+    }
+]
